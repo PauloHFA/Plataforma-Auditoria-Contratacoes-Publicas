@@ -1,6 +1,6 @@
-# NexusGov
+# Plataforma de Auditoria de Contratações Públicas (`NexusGov`)
 
-> **Plataforma de Auditoria Forense por Grafos e Triagem Estatística de Contratações Públicas**
+> **Plataforma de Auditoria Forense por Grafos e Triagem Estatística de Contratações Públicas** (ver [PENDENCIAS.md](PENDENCIAS.md))
 
 NexusGov é uma infraestrutura aberta e auditável desenvolvida sob a metodologia **Spec-Driven Development (SDD)**. O sistema cruza dados abertos do **Portal Nacional de Contratações Públicas (PNCP)**, da base cadastral pública de **CNPJs da Receita Federal** e do **IBGE** para triar indícios de:
 - **Concorrência Fictícia / Cartéis (*Cover Bidding*)**: Grafos heterogêneos de empresas, sócios e certames com projeção de coocorrência, detecção de comunidades (Leiden/Louvain) e modelo de controle nulo.
